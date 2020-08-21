@@ -11,9 +11,6 @@
 
 package callBy;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class CallByValue {
 	public static void swap(int x, int y) {
 		int temp = x;
