@@ -8,7 +8,7 @@ public class StrCnt {
 
 		int length = str.length();
 		int cnt = 0;
-		
+
 		for (int i = 0; i < length; i++) {
 			if(i <= length) {
 				if(str.charAt(i) == 'a' && str.charAt(i + 1) == 'b') {
@@ -16,7 +16,7 @@ public class StrCnt {
 				}
 			}
 		}
-		
+
 		System.out.println(cnt);
 	}
 }
