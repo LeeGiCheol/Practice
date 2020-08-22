@@ -3,7 +3,7 @@
 - 2020 08 22 토  
   Netty와 Mina를 사용한 EchoServerClient 연습 (Mina는 Client로 telnet을 사용)  
   Netty, Mina, Docker에 대해 필기 공부 중이다. 실습도 해볼 예정이다.  
-  DoIt 자료구조 알고리즘 Set을 공부했다. (Set은 집합이며 집합은 순서는 없지만 같은 요소는 있을 수 없다.)  - DoIt 서적 관련 공부는 [이곳](https://github.com/LeeGiCheol/DoItAlgorithmDataStructure){: target="_blank"}에 올리고 있다.  
+  DoIt 자료구조 알고리즘 Set을 공부했다. (Set은 집합이며 집합은 순서는 없지만 같은 요소는 있을 수 없다.)  - DoIt 서적 관련 공부는 [이곳](https://github.com/LeeGiCheol/DoItAlgorithmDataStructure)에 올리고 있다.  
   해커랭크 30DaysOfCode 7일차 반복문과 스트링 결합 - 약 15분정도 걸린 듯 하다.  
 
 - 2020 08 21 금  
