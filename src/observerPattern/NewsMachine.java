@@ -1,7 +1,6 @@
 package observerPattern;
 
 import java.util.ArrayList;
-import java.util.Iterator;
 
 // Publisher를 구현한 클래스로, 정보를 제공해주는 퍼블리셔가 됨
 
