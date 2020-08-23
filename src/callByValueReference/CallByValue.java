@@ -9,7 +9,7 @@
  */
 
 
-package callBy;
+package callByValueReference;
 
 public class CallByValue {
 	public static void swap(int x, int y) {

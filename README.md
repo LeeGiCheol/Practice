@@ -1,5 +1,12 @@
 # 자료구조 알고리즘 등등 연습공간
 
+- 2020 08 23 일  
+  알고리즘 1문제풀이 - 크기가 다른 막대를 입력한 후, 우측에서 봤을 때 보이는 막대 개수 찾기  
+  Docker 기본적인 명령어 공부  
+  디자인패턴 공부 - Stratege, Factory Pattern  
+  해커랭크 30DaysOfCode 8일차 Array - 약 15분정도 걸렸다. 배열 뒤집기 문제  
+  패키지 정리  
+
 - 2020 08 22 토  
   Netty와 Mina를 사용한 EchoServerClient 연습 (Mina는 Client로 telnet을 사용)  
   Netty, Mina, Docker에 대해 필기 공부 중이다. 실습도 해볼 예정이다.  

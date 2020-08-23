@@ -7,7 +7,7 @@
 	출처 - https://re-build.tistory.com/3
  */
 
-package callBy;
+package callByValueReference;
 
 public class CallByReference {
 	int value;

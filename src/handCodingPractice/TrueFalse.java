@@ -1,6 +1,6 @@
 // 1~10 10개의 랜덤의 숫자 중 동일한 값이 있으면 true, 없으면 false 반환 손코딩 후 체크
 
-package trueFalse;
+package handCodingPractice;
 
 import java.util.Random;
 
