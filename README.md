@@ -1,6 +1,8 @@
 # 자료구조 알고리즘 등등 연습공간
 
 - 2020 08 23 일  
+  TDD - Given When Then Pattern 예제 실습  
+  객체지향 설계원칙 SOLID 공부 - OCP, DIP 예제 실습  
   알고리즘 1문제풀이 - 크기가 다른 막대를 입력한 후, 우측에서 봤을 때 보이는 막대 개수 찾기  
   Docker 기본적인 명령어 공부  
   디자인패턴 공부 - Stratege, Factory Pattern  

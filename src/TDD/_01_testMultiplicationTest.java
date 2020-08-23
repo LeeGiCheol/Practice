@@ -17,7 +17,7 @@ class _01_testMultiplicationTest {
 	
 	@Test
 	public void testSum() {
-		Calcurator c = new Calcurator();
+		Calculator c = new Calculator();
 		double result = c.sum(10, 50);
 		assertEquals(60, result, 0);
 	}

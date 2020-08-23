@@ -56,6 +56,7 @@ public class Bar {
 		int TC = sc.nextInt();
 		
 		int[] arr = new int[TC];
+		// 첫번째 막대는 무조건 보이니까 1
 		int cnt = 1;
 		
 		for (int i = 0; i < TC; i++) {
