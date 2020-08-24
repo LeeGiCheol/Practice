@@ -1,5 +1,9 @@
 # 자료구조 알고리즘 등등 연습공간
 
+- 2020 08 24 월  
+  DoIt LinkedList 공부 중 enum을 사용하여 Switch case를 만들었다. enum을 처음 사용해봤기 때문에 enum에 대한 예제 실습  
+  해커랭크 30DaysOfCode 9일차 Map - 맵으로 전화번호부 만들기.  
+
 - 2020 08 23 일  
   TDD - Given When Then Pattern 예제 실습  
   객체지향 설계원칙 SOLID 공부 - OCP, DIP 예제 실습  
