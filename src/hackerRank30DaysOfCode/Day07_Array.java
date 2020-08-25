@@ -49,7 +49,7 @@ package hackerRank30DaysOfCode;
 
 import java.util.Scanner;
 
-public class Day7_Array {
+public class Day07_Array {
 	private static final Scanner scanner = new Scanner(System.in);
 
 	public static void main(String[] args) {

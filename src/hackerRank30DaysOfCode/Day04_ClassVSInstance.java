@@ -39,10 +39,10 @@ package hackerRank30DaysOfCode;
 
 import java.util.Scanner;
 
-public class Day4_ClassVSInstance {
+public class Day04_ClassVSInstance {
 	private int age;
 
-	public Day4_ClassVSInstance(int initialAge) {
+	public Day04_ClassVSInstance(int initialAge) {
 		
 		if(initialAge < 0) {
 			System.out.println("Age is not valid, setting age to 0.");
@@ -75,7 +75,7 @@ public class Day4_ClassVSInstance {
 		int T = sc.nextInt();
 		for (int i = 0; i < T; i++) {
 			int age = sc.nextInt();
-			Day4_ClassVSInstance p = new Day4_ClassVSInstance(age);
+			Day04_ClassVSInstance p = new Day04_ClassVSInstance(age);
 			p.amIOld();
 			for (int j = 0; j < 3; j++) {
 				p.yearPasses();

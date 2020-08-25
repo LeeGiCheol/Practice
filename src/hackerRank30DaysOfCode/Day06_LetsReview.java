@@ -39,7 +39,7 @@ package hackerRank30DaysOfCode;
 
 import java.util.Scanner;
 
-public class Day6_LetsReview {
+public class Day06_LetsReview {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

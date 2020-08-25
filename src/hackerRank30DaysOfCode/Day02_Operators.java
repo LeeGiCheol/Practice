@@ -55,7 +55,7 @@ package hackerRank30DaysOfCode;
 
 import java.util.Scanner;
 
-public class Day2_Operators {
+public class Day02_Operators {
     // Complete the solve function below.
     static void solve(double meal_cost, int tip_percent, int tax_percent) {
     	double tip_cost = meal_cost * tip_percent / 100;

@@ -65,7 +65,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Day8_DictionariesAndMaps {
+public class Day08_DictionariesAndMaps {
 
 	public static void main(String[] argh) {
 		Scanner in = new Scanner(System.in);

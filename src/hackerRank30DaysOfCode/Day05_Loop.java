@@ -51,7 +51,7 @@ package hackerRank30DaysOfCode;
 
 import java.util.Scanner;
 
-public class Day5_Loop {
+public class Day05_Loop {
 	private static final Scanner scanner = new Scanner(System.in);
 
 	public static void main(String[] args) {

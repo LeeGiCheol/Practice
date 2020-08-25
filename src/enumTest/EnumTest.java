@@ -58,6 +58,9 @@ public class EnumTest {
 		
 		System.out.println("---------------------------------");
 		
+		// compareTo()메소드는 인자로 주어진 열거 객체를 기준으로 
+		// 전후로 몇번째 위치하는지 비교한다. 
+		// 만약 열거 객체가 매개값의 열거 객체보다 순번이 빠르다면 음수가, 순번이 늦다면 양수가 리턴된다.
 		Season s1 = Season.가을;
 		Season s2 = Season.겨울;
 		

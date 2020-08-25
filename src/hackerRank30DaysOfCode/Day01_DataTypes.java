@@ -49,7 +49,7 @@ package hackerRank30DaysOfCode;
 
 import java.util.Scanner;
 
-public class Day1_DataTypes {
+public class Day01_DataTypes {
 	public static void main(String[] args) {
 		int i = 4;
 		double d = 4.0;

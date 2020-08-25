@@ -60,7 +60,7 @@
 package hackerRank30DaysOfCode;
 import java.util.Scanner;
 
-public class Day3_IntroToConditionalStatements {
+public class Day03_IntroToConditionalStatements {
 
 	
 	static String weirdNotWeird(int num) {
