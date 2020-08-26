@@ -52,5 +52,6 @@ public class _01_RegularExpressionExample {
 		
 		// false
 		System.out.println(regex2);
+		
 	}
 }
