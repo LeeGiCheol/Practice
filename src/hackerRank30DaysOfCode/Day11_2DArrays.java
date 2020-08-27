@@ -42,6 +42,17 @@
 	Sample Output
 	
 	19
+	
+	
+	---풀이---
+	6x6 배열이 있다.
+	그 안에는 16개의 모래시계가 있다.
+	3x3으로 된 배열을 말하는 것.
+	그 중 가장 큰 값을 가지는 모래시계의 값을 찾아내는것이였다.
+	
+	3x3씩 총합을 더하고 최댓값 구하는 것 처럼
+	가장 큰값을 가진 배열을 찾았다.
+	
  */
 
 package hackerRank30DaysOfCode;
@@ -78,11 +89,11 @@ public class Day11_2DArrays {
         		sum = arr[i-1][j-1] + arr[i-1][j] + arr[i-1][j+1]
         				+ arr[i][j] + arr[i+1][j-1] + arr[i+1][j] + arr[i+1][j+1];
         		
-        		if(sum > max)
+        		if(sum > max) {
         			max = sum;
+        		}
         	}
 		}
-        
         
         System.out.println(max);
         
