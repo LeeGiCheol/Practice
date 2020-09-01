@@ -1,5 +1,8 @@
 # 자료구조 알고리즘 등등 연습공간
 
+- 2020 09 01 화  
+  해커랭크 30DaysOfCode 17일차 Exception String to int - String to int 형변환 중 Exception 발생 시 Bad String 문자를 출력하는 문제였다. try-catch문을 사용해서 풀이했고, 문제 해석이나 풀이는 간단했다.  
+
 - 2020 08 31 월  
   명품 HTML5 CSS3 Javascript 웹 프로그래밍 자바스크립트 DOM 공부  
   해커랭크 30DaysOfCode 16일차 LinkedList - 꼬리쪽으로 값을 삽입하는 insert 메서드 만들기이다. 이미 어느정도 익숙한 문제라 해석도 쉽게 했고, 풀이도 쉽게했다.  
