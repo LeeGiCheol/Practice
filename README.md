@@ -10,4 +10,4 @@
   해커랭크 30DaysOfCode 17일차 Exception String to int - String to int 형변환 중 Exception 발생 시 Bad String 문자를 출력하는 문제였다. try-catch문을 사용해서 풀이했고, 문제 해석이나 풀이는 간단했다.  
 
 
->>>[##2020 08](https://github.com/LeeGiCheol/Practice/tree/master/README/202008.md)
+>>>[###2020 08](https://github.com/LeeGiCheol/Practice/tree/master/README/202008.md)
