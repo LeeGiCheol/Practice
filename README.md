@@ -1,6 +1,7 @@
 # 자료구조 알고리즘 등등 연습공간
 
 - 2020 09 09 수  
+  명품 HTML5 CSS3 Javascript 자바스크립트 EventListener 공부  
   해커랭크 30DaysOfCode 25일차 More LinkedLists - LinkedList의 중복 제거 메서드를 만드는 문제였다. 많이 어렵진 않았고, 첫번째 제출에서 오답이 나와 디버깅 후 정답  
   MacBookAir -> Mac Mini 다시 변경  
 
