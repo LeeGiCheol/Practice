@@ -1,6 +1,7 @@
 # 자료구조 알고리즘 등등 연습공간
 
 - 2020 09 10 목  
+  ExtractMethod 단축키 사용법  
   명품 HTML5 CSS3 Javascript 자바스크립트 BOM, Canvas 공부  
   해커랭크 30DaysOfCode 26일차 Running Time and Complexity - 소수찾기였다. 에라토스테네스의 체를 풀이해봤으니까 쉽게 풀 수 있을 줄 알았는데, 생각보다 힘들었다. 알고리즘 연습을 꾸준히 하지 않은 잘못인 듯 하다.  
 
