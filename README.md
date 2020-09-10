@@ -1,5 +1,8 @@
 # 자료구조 알고리즘 등등 연습공간
 
+- 2020 09 10 목  
+  해커랭크 30DaysOfCode 26일차 Running Time and Complexity - 소수찾기였다. 에라토스테네스의 체를 풀이해봤으니까 쉽게 풀 수 있을 줄 알았는데, 생각보다 힘들었다. 알고리즘 연습을 꾸준히 하지 않은 잘못인 듯 하다.  
+
 - 2020 09 09 수  
   명품 HTML5 CSS3 Javascript 자바스크립트 EventListener 공부  
   해커랭크 30DaysOfCode 25일차 More LinkedLists - LinkedList의 중복 제거 메서드를 만드는 문제였다. 많이 어렵진 않았고, 첫번째 제출에서 오답이 나와 디버깅 후 정답  
