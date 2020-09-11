@@ -1,7 +1,7 @@
 # 자료구조 알고리즘 등등 연습공간
 
-- 2020 09 11 금  
-  명품 HTML5 CSS3 Javascript private Repository로 이동  
+- 2020 09 11 금 
+  명품 HTML5 CSS3 Javascript, DoIt 자료구조 알고리즘 - privateRepository로 이동  
   명품 HTML5 CSS3 Javascript 자바스크립트 Cookie, Session, Storage 공부  
   해커랭크 30DaysOfCode 27일차 Nested Logic - 중첩로직인데 무엇을 원하고 낸 문제인지 잘 모르겠다. 그냥 if문만으로 풀게되었는데 다른 방식을 원한 것 같으나 잘 모르겠다..  
 
