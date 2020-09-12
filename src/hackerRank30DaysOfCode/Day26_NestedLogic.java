@@ -48,7 +48,7 @@ package hackerRank30DaysOfCode;
 
 import java.util.Scanner;
 
-public class Day_26_NestedLogic {
+public class Day26_NestedLogic {
 	static int getFine(int actualDay, int actualMonth, int actualYear, 
 			int expectedDay, int expectedMonth, int expectedYear) {
 		if (actualYear > expectedYear)

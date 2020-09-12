@@ -1,5 +1,8 @@
 # 자료구조 알고리즘 등등 연습공간
 
+- 2020 09 12 토  
+  - 해커랭크 30DaysOfCode 28일차 Testing - 테스트코드는 이미 구현되어있다. 이것을 활용해 테스트를 해보는 코드 작성을 하는 문제였다. 문제 해석하는데 시간을 꽤 많이 썼다.  
+
 - 2020 09 11 금  
   - 명품 HTML5 CSS3 Javascript, DoIt 자료구조 알고리즘 - privateRepository로 이동  
   - 명품 HTML5 CSS3 Javascript 자바스크립트 Cookie, Session, Storage 공부  
