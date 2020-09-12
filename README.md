@@ -1,25 +1,26 @@
 # 자료구조 알고리즘 등등 연습공간
 
 - 2020 09 12 토  
+  - 명품 HTML5 CSS3 JavaScript Audio, Video, Location, Web Worker 공부 (완료)  
   - 해커랭크 30DaysOfCode 28일차 Testing - 테스트코드는 이미 구현되어있다. 이것을 활용해 테스트를 해보는 코드 작성을 하는 문제였다. 문제 해석하는데 시간을 꽤 많이 썼다.  
 
 - 2020 09 11 금  
-  - 명품 HTML5 CSS3 Javascript, DoIt 자료구조 알고리즘 - privateRepository로 이동  
-  - 명품 HTML5 CSS3 Javascript 자바스크립트 Cookie, Session, Storage 공부  
+  - 명품 HTML5 CSS3 JavaScript, DoIt 자료구조 알고리즘 - privateRepository로 이동  
+  - 명품 HTML5 CSS3 JavaScript 자바스크립트 Cookie, Session, Storage 공부  
   - 해커랭크 30DaysOfCode 27일차 Nested Logic - 중첩로직인데 무엇을 원하고 낸 문제인지 잘 모르겠다. 그냥 if문만으로 풀게되었는데 다른 방식을 원한 것 같으나 잘 모르겠다..  
 
 - 2020 09 10 목  
   - ExtractMethod 단축키 사용법  
-  - 명품 HTML5 CSS3 Javascript 자바스크립트 BOM, Canvas 공부  
+  - 명품 HTML5 CSS3 JavaScript 자바스크립트 BOM, Canvas 공부  
   - 해커랭크 30DaysOfCode 26일차 Running Time and Complexity - 소수찾기였다. 에라토스테네스의 체를 풀이해봤으니까 쉽게 풀 수 있을 줄 알았는데, 생각보다 힘들었다. 알고리즘 연습을 꾸준히 하지 않은 잘못인 듯 하다.  
 
 - 2020 09 09 수  
-  - 명품 HTML5 CSS3 Javascript 자바스크립트 EventListener 공부  
+  - 명품 HTML5 CSS3 JavaScript 자바스크립트 EventListener 공부  
   - 해커랭크 30DaysOfCode 25일차 More LinkedLists - LinkedList의 중복 제거 메서드를 만드는 문제였다. 많이 어렵진 않았고, 첫번째 제출에서 오답이 나와 디버깅 후 정답  
   - MacBookAir -> Mac Mini 다시 변경  
 
 - 2020 09 08 화  
-  - 명품 HTML5 CSS3 Javascript 자바스크립트 EventListener 공부  
+  - 명품 HTML5 CSS3 JavaScript 자바스크립트 EventListener 공부  
   - 해커랭크 30DaysOfCode 24일차 Level-Order Traversal - BFS 문제였다. BFS는 처음 풀이해봐서 쉽게 풀지 못했다. 제타위키에서 참고해서 풀이 후 디버깅을 해가면서 익히는 방식으로 공부했다. 그래프도 공부할 필요성이 느껴졌다.  
 
 - 2020 09 07 월  
