@@ -1,6 +1,11 @@
 # 자료구조 알고리즘 등등 연습공간
 
+- 2020 09 13 일  
+  - 해커랭크 30DaysOfCode 29일차 RegEx, Patterns, and Intro to Databases - 정규표현식 문제였다. 지난번에 공부를 했었기 때문에 생각보다 금방 풀이할 수 있었다.  
+
 - 2020 09 12 토  
+  - 인프런 스프링 프레임워크 핵심 기술 공부  
+  - 생활코딩 자바스크립트 수업  
   - 명품 HTML5 CSS3 JavaScript Audio, Video, Location, Web Worker 공부 (완료)  
   - 해커랭크 30DaysOfCode 28일차 Testing - 테스트코드는 이미 구현되어있다. 이것을 활용해 테스트를 해보는 코드 작성을 하는 문제였다. 문제 해석하는데 시간을 꽤 많이 썼다.  
 
