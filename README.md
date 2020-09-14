@@ -1,5 +1,8 @@
 # 자료구조 알고리즘 등등 연습공간
 
+- 2020 09 14 월  
+  - 해커랭크 30DaysOfCode 30일차 BitwiseAND - 비트연산자 문제이다. 30DaysOfCode 완료  
+
 - 2020 09 13 일  
   - 스프링 ApplicationContext, Autowired 공부  
   - 해커랭크 30DaysOfCode 29일차 RegEx, Patterns, and Intro to Databases - 정규표현식 문제였다. 지난번에 공부를 했었기 때문에 생각보다 금방 풀이할 수 있었다.  
