@@ -1,6 +1,7 @@
 # 자료구조 알고리즘 등등 연습공간
 
 - 2020 09 18 금  
+  - 인프런 스프링 프레임워크 핵심 기술 - Environment (Profile, Property), ApplicationEventPublisher, ResourceLoader, Resource 공부, Validation 추상화 공부  
   - 코드로 배우는 스프링 웹 프로젝트 - Ajax (댓글), AOP, Transaction  
     FantasyStock 프로젝트에서 특히 헤맸던 부분이 Ajax였다. 사용하면서도 맞게 사용하는지 모르고 사용했었다.  
     AOP와 Transaction은 거의 신경조차 쓰지 않았다.  
