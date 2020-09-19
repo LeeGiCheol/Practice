@@ -1,5 +1,9 @@
 # 자료구조 알고리즘 등등 연습공간
 
+- 2020 09 19 토  
+  - 인프런 스프링 프레임워크 핵심 기술 - DataBinding 추상화 PropertyEditor 공부  
+  - 코드로 배우는 스프링 웹 프로젝트 - 파일 업로드  
+
 - 2020 09 18 금  
   - 인프런 스프링 프레임워크 핵심 기술 - Environment (Profile, Property), ApplicationEventPublisher, ResourceLoader, Resource 공부, Validation 추상화 공부  
   - 코드로 배우는 스프링 웹 프로젝트 - Ajax (댓글), AOP, Transaction  
