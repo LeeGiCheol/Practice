@@ -1,5 +1,8 @@
 # 자료구조 알고리즘 등등 연습공간
 
+- [인프런 스프링 프레임워크 핵심 기술 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/README/SpringFramework-core.md)
+- [클린코드 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/README/CleanCode.md)
+
 - 2020 09 19 토  
   - 인프런 스프링 프레임워크 핵심 기술 - DataBinding 추상화 PropertyEditor 공부  
   - 코드로 배우는 스프링 웹 프로젝트 - 파일 업로드  
