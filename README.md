@@ -1,11 +1,10 @@
 # 자료구조 알고리즘 등등 연습공간
 
-___
-
 - [인프런 스프링 프레임워크 핵심 기술 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/README/SpringFramework-core.md)
 - [클린코드 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/README/CleanCode.md)
 
-___
+- 2020 09 21 월  
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/tree/master/README/Network.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)  
 
 - 2020 09 20 일
   - 클린코드 독서  
