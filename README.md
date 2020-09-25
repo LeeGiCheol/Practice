@@ -7,6 +7,9 @@ ___
 
 ___
 
+- 2020 09 25 금  
+  - 리눅스 공부 시작 [생활코딩](https://www.youtube.com/watch?v=DsG-JWrFJTc&list=PLuHgQVnccGMBT57a9dvEtd6OuWpugF9SH)  
+
 - 2020 09 24 목  
   - 퀵소트 다시 공부 (정렬 알고리즘 다시 쭉 공부할 예정)  
 
