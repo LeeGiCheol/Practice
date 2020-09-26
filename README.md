@@ -7,8 +7,11 @@ ___
 
 ___
 
+- 2020 09 26 토  
+  - 인프런 스프링 프레임워크 핵심 기술 - DataBinding Converter, Formatter 공부  
+
 - 2020 09 25 금  
-  - 리눅스 공부 시작 [생활코딩](https://www.youtube.com/watch?v=DsG-JWrFJTc&list=PLuHgQVnccGMBT57a9dvEtd6OuWpugF9SH)  
+  - 리눅스 공부 [생활코딩](https://www.youtube.com/watch?v=DsG-JWrFJTc&list=PLuHgQVnccGMBT57a9dvEtd6OuWpugF9SH)  
 
 - 2020 09 24 목  
   - 퀵소트 다시 공부 (정렬 알고리즘 다시 쭉 공부할 예정)  
