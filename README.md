@@ -7,6 +7,10 @@ ___
 
 ___
 
+- 2020 09 27 일
+  - 회사에서 필요한 공부가 네트워크와 DB일것이라고 생각되어 조금 더 집중해 볼 생각이다.  
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/Network/_2020_09_27_Network.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634) - SelectiveRepeat, TCP 공부  
+
 - 2020 09 26 토  
   - 인프런 스프링 프레임워크 핵심 기술 - DataBinding Converter, Formatter 공부  
 
@@ -20,11 +24,11 @@ ___
   - 코드로 배우는 스프링 웹 프로젝트 - FileUpload  
 
 - 2020 09 22 화  
-  - [Network 공부](https://github.com/LeeGiCheol/Practice/tree/master/README/Network.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634) - LAN WAN DMZ 차이, rdt2.1, rdt 3.0, Go Back N
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/Network/_2020_09_21-22_Network.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634) - LAN WAN DMZ 차이, rdt2.1, rdt 3.0, Go Back N
 
 
 - 2020 09 21 월  
-  - [Network 공부](https://github.com/LeeGiCheol/Practice/tree/master/README/Network.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)  
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/Network/_2020_09_21-22_Network.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)  
 
 - 2020 09 20 일
   - 클린코드 독서  
