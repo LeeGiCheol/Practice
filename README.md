@@ -2,8 +2,8 @@
 
 ___
 
-- [인프런 스프링 프레임워크 핵심 기술 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/README/SpringFramework-core.md)
-- [클린코드 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/README/CleanCode.md)
+- [인프런 스프링 프레임워크 핵심 기술 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/README/BookREADME/SpringFramework-core.md)
+- [클린코드 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/README/BookREADME/CleanCode.md)
 
 ___
 
@@ -110,6 +110,6 @@ ___
 
 ___
 
-#### &emsp;&emsp; [2020 08](https://github.com/LeeGiCheol/Practice/tree/master/README/202008.md)
+#### &emsp;&emsp; [2020 08](https://github.com/LeeGiCheol/Practice/tree/master/README/README/2020/202008.md)
 
 ___
