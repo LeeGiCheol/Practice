@@ -7,6 +7,18 @@ ___
 
 ___
 
+- 2020 09 29 화  
+  - network 공부 -   
+    L4는 LoadBalancer이다. 접속자가 증가함에 따라 서버부하 (트래픽) 등을 감당 할 수 없을 때 여러 대의 서버로 부하를 분산시킨다.  
+    OSI7 계층의 3~4계층에 속하는 IP 주소 및 TCP / UCP 포트 정보를 참조하여 스위칭 하는 장비  
+    /c/d = 전체 확인  
+    /c/slb/group 1 = group1로 이동  
+    cur = 현재 상태 확인  
+    dis 1 = 1번 정지  
+    ena 1 = 1번 실행  
+    apply = commit 과 같은 기능  
+    원 상태로 돌려놓지 않을 경우 재접속 시 저장할 것인지 물어본다. 이것으로 잘 되었는지 확인 가능     
+
 - 2020 09 28 월  
   - [오라클 기초 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/oracle/_2020_09_28_Oracle.md)  
 
