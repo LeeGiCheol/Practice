@@ -8,7 +8,7 @@ ___
 ___
 
 - 2020 09 30 수  
-  - [오라클 기초 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/oracle/_2020_09_28_Oracle.md)  
+  - [오라클 기초 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/oracle/_2020_09_30_Oracle.md)  
     기본셋팅 완료  
 
 
