@@ -7,6 +7,11 @@ ___
 
 ___
 
+- 2020 09 30 수  
+  - [오라클 기초 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/oracle/_2020_09_28_Oracle.md)  
+    기본셋팅 완료  
+
+
 - 2020 09 29 화  
   - network 공부 -   
     L4는 LoadBalancer이다. 접속자가 증가함에 따라 서버부하 (트래픽) 등을 감당 할 수 없을 때 여러 대의 서버로 부하를 분산시킨다.  
