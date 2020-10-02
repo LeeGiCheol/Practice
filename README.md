@@ -7,6 +7,21 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network)
 ___
 
+- 2020 10 02 금
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_02_TCPScenario_Router_IP.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
+    - TCP Scenario
+    - NetworkLayer   
+      - Router
+        - Forwarding
+        - Routing
+        - Longest Prefix Matching
+      - IP
+        - IP Datagram Format 
+        - IP 배정법
+        - Subnet Mask
+        - 과거
+
+
 - 2020 10 01 목
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_01_FlowControl_3WayHandshake_CongestionControl.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634) - FlowControl, 3-WayHandshake, CongestionControl 공부  
   
