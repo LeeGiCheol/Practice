@@ -7,6 +7,13 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network)
 ___
 
+- 2020 10 03 토
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_03_DHCP_IPFragmentation_Reassemble.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
+    - DHCP
+    - IP Datagram Format
+      - IP Fragmentation
+      - Reassemble
+
 - 2020 10 02 금
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_02_TCPScenario_Router_IP.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
     - TCP Scenario
