@@ -7,6 +7,12 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network)
 ___
 
+- 2020 10 04 일
+  - Inflearn 오라클 데이터베이스 11g 프로그래밍 공부
+    - 기본 함수
+    - Group By, Having
+    - RollUp
+
 - 2020 10 03 토
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_03_DHCP_IPFragmentation_Reassemble.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
     - DHCP
