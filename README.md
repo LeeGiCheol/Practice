@@ -7,6 +7,13 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network)
 ___
 
+- 2020 10 05 월
+  - Inflearn 오라클 데이터베이스 11g 프로그래밍 공부
+    - Join
+        - 조인의 개념
+        - 내부조인
+        - 외부조인
+
 - 2020 10 04 일
   - Inflearn 오라클 데이터베이스 11g 프로그래밍 공부
     - 기본 함수
