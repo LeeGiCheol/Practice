@@ -7,6 +7,12 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network)
 ___
 
+- 2020 10 06 화
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_06_ICMP_RoutingAlgorithm-LinkStateAlgorithm.md) - [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
+    - ICMP
+    - RoutingAlgorithm
+      - LinkStateAlgorithm (Dijkstra Algorithm 사용해 최단거리 찾기. 이해하기 어려운 알고리즘은 아닌듯하지만, 공부가 더 필요해 보였다.)
+
 - 2020 10 05 월
   - Inflearn 오라클 데이터베이스 11g 프로그래밍 공부
     - Join
