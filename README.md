@@ -7,11 +7,21 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 10 07 수
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_07_DistanceVector.md)
+    - RoutingAlgorithm
+      - Distance Vector
+        - Recursive를 통해 구현한다. 
+        - 전체 Router 정보를 알고있는 LinkState와는 다르게 전체 정보를 모르고 부분적인 정보만 알고있기 때문에 Count-to-infinify가 발생할 수 있다.
+          - Poison Reserve 로 해결가능
+
+
 - 2020 10 06 화
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_06_ICMP_RoutingAlgorithm-LinkStateAlgorithm.md)
     - ICMP
     - RoutingAlgorithm
-      - LinkStateAlgorithm (Dijkstra Algorithm 사용해 최단거리 찾기. 이해하기 어려운 알고리즘은 아닌듯하지만, 공부가 더 필요해 보였다.)
+      - LinkStateAlgorithm 
+        - Dijkstra Algorithm 사용해 최단거리 찾기. 이해하기 어려운 알고리즘은 아닌듯하지만, 공부가 더 필요해 보였다.
 
 - 2020 10 05 월
   - Inflearn 오라클 데이터베이스 11g 프로그래밍 공부
