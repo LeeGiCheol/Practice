@@ -7,6 +7,17 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 10 08 목
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_08_AutonomousSystem_BGP.md)
+    - AutonomousSystem (AS)
+      - 각자의 자치권을 가진 시스템
+    - Intra-AS Routing Algorithm 
+    - Inter-AS Routing Algorithm
+      - BGP
+    - AS와 AS를 통신하는 Protocol
+    - Policy-Based
+	    - 목적이 최단경로인 Intra-AS와는 다르게 AS 간의 정책이 중요하다.
+
 - 2020 10 07 수
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_07_DistanceVector.md)
     - RoutingAlgorithm
