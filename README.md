@@ -7,6 +7,21 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 10 09 금
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_09_LinkLayer_MACProtocol.md)
+    - Link Layer
+      - MAC Protoco 
+        - Channel Partitioning
+          - TDMA
+          - FDMA
+        - Random Access Protocol
+          - CSMA
+          - CSMA/CD
+          - CSMA/CA
+        - Taking turns MAC Protocol
+          - Polling Protocol
+          - Token-Passing Protocol
+
 - 2020 10 08 목
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_08_AutonomousSystem_BGP.md)
     - AutonomousSystem (AS)
