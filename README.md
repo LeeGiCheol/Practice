@@ -7,10 +7,19 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 10 10 토
+  - Graph BFS DFS 구현 공부
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_10_MACProtocol.md)
+    - MAC Protocol
+      - Ethernet Frame Structure
+      - Minimum Frame Size = 64 Byte
+      - Address Resolution Protocol
+
+
 - 2020 10 09 금
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_09_LinkLayer_MACProtocol.md)
     - Link Layer
-      - MAC Protoco 
+      - MAC Protocol 
         - Channel Partitioning
           - TDMA
           - FDMA
