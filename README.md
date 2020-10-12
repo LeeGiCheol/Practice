@@ -7,14 +7,28 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 10 12 월
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_12_Wireless.md)
+    - Wireless and Mobile Network
+      - Wireless
+        - CSMA/CA
+          - RTS-CTS
+
+- 2020 10 11 일
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_11_LinkLayer_Switch.md)
+    - Link Layer
+      - Switch
+        - Switch Table
+        - Router, 공유기, Switch 차이점
+
 - 2020 10 10 토
   - Graph BFS DFS 구현 공부
-  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_10_MACProtocol.md)
-    - MAC Protocol
-      - Ethernet Frame Structure
-      - Minimum Frame Size = 64 Byte
-      - Address Resolution Protocol
-
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_10_LinkLayer_MACProtocol.md)
+    - Link Layer
+      - MAC Protocol
+        - Ethernet Frame Structure
+        - Minimum Frame Size = 64 Byte
+        - Address Resolution Protocol
 
 - 2020 10 09 금
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_09_LinkLayer_MACProtocol.md)
@@ -49,7 +63,6 @@ ___
         - Recursive를 통해 구현한다. 
         - 전체 Router 정보를 알고있는 LinkState와는 다르게 전체 정보를 모르고 부분적인 정보만 알고있기 때문에 Count-to-infinify가 발생할 수 있다.
           - Poison Reserve 로 해결가능
-
 
 - 2020 10 06 화
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_06_ICMP_RoutingAlgorithm-LinkStateAlgorithm.md)
@@ -92,7 +105,6 @@ ___
         - IP 배정법
         - Subnet Mask
         - 과거
-
 
 - 2020 10 01 목
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_01_FlowControl_3WayHandshake_CongestionControl.md) 
