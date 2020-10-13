@@ -7,6 +7,9 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 10 13 화
+  - Random Pivot 설정해서 QuickSort 구현
+
 - 2020 10 12 월
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_10_12_Wireless.md)
     - Wireless and Mobile Network
