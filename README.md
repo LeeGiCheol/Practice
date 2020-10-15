@@ -7,6 +7,10 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 10 15 목
+  - Socket 통신 공부
+    [소스코드 링크](https://github.com/ksh901016/java_chat)
+
 - 2020 10 13 화
   - Random Pivot 설정해서 QuickSort 구현
 
