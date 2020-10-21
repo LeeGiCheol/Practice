@@ -7,8 +7,11 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 10 21 수
+  - 인프런 스프링 웹 MVC - 스프링 MVC 동작원리 공부
+
 - 2020 10 19 월
-  - Spring DispatcherServlet 공부
+  - 인프런 스프링 웹 MVC - 스프링 DispatcherServlet 공부
 
 - 2020 10 15 목
   - Socket 통신 공부
