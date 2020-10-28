@@ -7,6 +7,11 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 10 28 수
+  - 인프런 스프링 웹 MVC - WebMvcConfigurer, Spring Boot Spring MVC, Spring Boot JSP 안쓰는 이유 공부
+    - JAR 프로젝트로 만들 수 없고 WAR 프로젝트로 만들어야한다. (독립적으로 실행 불가)
+    - JBOSS 언더토우는 JSP 지원하지않는다.
+
 - 2020 10 27 화
   - 인프런 스프링 웹 MVC - 스프링 Bean 설정, @EnableWebMvc 공부
 
