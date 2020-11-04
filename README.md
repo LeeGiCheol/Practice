@@ -7,6 +7,11 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 11 04 수
+  - Inflearn 백기선 - Spring Web MVC 
+    - HTTP MessageConverter 공부
+      - Postman을 활용해 JSON, XML 형태로 출력
+
 - 2020 11 03 화
   - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_11_03_Wireless.md)
     - Wireless and Mobile Network
