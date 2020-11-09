@@ -7,6 +7,14 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 11 09 월
+  - Inflearn 백기선 - Spring Web MVC 
+    - WebMvcConfigurer 설정
+    - HTTP 요청 Mapping
+      - HTTP Method
+      - URI Pattern
+      - MediaType
+
 - 2020 11 04 수
   - Inflearn 백기선 - Spring Web MVC 
     - HTTP MessageConverter 공부
