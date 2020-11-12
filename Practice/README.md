@@ -2,9 +2,9 @@
 
 ___
 
-- [인프런 스프링 프레임워크 핵심 기술 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/README/BookREADME/SpringFramework-core.md)
-- [클린코드 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/README/BookREADME/CleanCode.md)
-- [Network 필기노트](https://github.com/LeeGiCheol/Practice/tree/master/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
+- [인프런 스프링 프레임워크 핵심 기술 필기노트](https://github.com/LeeGiCheol/Practice/blob/master/Practice/README/BookREADME/SpringFramework-core.md)
+- [클린코드 필기노트](https://github.com/LeeGiCheol/Practice/blob/master/Practice/README/BookREADME/CleanCode.md)
+- [Network 필기노트](https://github.com/LeeGiCheol/Practice/blob/master/Practice/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
 - 2020 11 09 월
@@ -21,7 +21,7 @@ ___
       - Postman을 활용해 JSON, XML 형태로 출력
 
 - 2020 11 03 화
-  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/src/network/_2020_11_03_Wireless.md)
+  - [Network 공부](https://github.com/LeeGiCheol/Practice/blob/master/Practice/src/network/_2020_11_03_Wireless.md)
     - Wireless and Mobile Network
       
 - 2020 11 02 월
@@ -30,8 +30,8 @@ ___
 
 ___
 
-#### &emsp;&emsp; [2020 10](https://github.com/LeeGiCheol/Practice/tree/master/README/README/2020/202010.md)
-#### &emsp;&emsp; [2020 09](https://github.com/LeeGiCheol/Practice/tree/master/README/README/2020/202009.md)
-#### &emsp;&emsp; [2020 08](https://github.com/LeeGiCheol/Practice/tree/master/README/README/2020/202008.md)
+#### &emsp;&emsp; [2020 10](https://github.com/LeeGiCheol/Practice/blob/master/Practice/README/README/2020/202010.md)
+#### &emsp;&emsp; [2020 09](https://github.com/LeeGiCheol/Practice/blob/master/Practice/README/README/2020/202009.md)
+#### &emsp;&emsp; [2020 08](https://github.com/LeeGiCheol/Practice/blob/master/Practice/README/README/2020/202008.md)
 
 ___
