@@ -7,6 +7,12 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/blob/master/Practice/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 11 13 금
+  - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
+    - JPA / Hibernate / Spring Data JPA의 관계
+    - JPA Dirty Checking
+    - JPA Auditing을 통해 등록 / 수정 시간을 자동화 하는 방법
+
 - 2020 11 12 목
   - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 시작
     - SpringBoot 설정
