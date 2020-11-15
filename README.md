@@ -7,6 +7,11 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/blob/master/Practice/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 11 15 일
+  - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
+    - Mustache 사용법
+    - 게시판 CRUD
+
 - 2020 11 13 금
   - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
     - JPA / Hibernate / Spring Data JPA의 관계
