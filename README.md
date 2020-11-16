@@ -10,7 +10,7 @@ ___
 - 2020 11 15 일
   - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
     - 소셜로그인 (구글)
-    - session.getAttribute()를 annotation으로 관리
+    - session.getAttribute("user")와 같이 자주쓰는 문법은 annotation으로 관리
       - WebMvcConfigurer 에 등록
 
 - 2020 11 15 일
