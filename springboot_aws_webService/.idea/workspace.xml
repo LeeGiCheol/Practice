@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0652216-a487-41c2-901e-150446bce89d" name="Default Changelist" comment="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/auth/CustomOAuth2UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/auth/LoginUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/auth/LoginUserArgumentResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/auth/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/auth/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/auth/dto/OAuthAttributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/auth/dto/SessionUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/domain/user/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/domain/user/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/domain/user/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/gicheol/book/springboot/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/gicheol/book/springboot/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/gicheol/book/springboot/web/IndexController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/gicheol/book/springboot/web/IndexController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/index.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/index.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/index.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/templates/index.mustache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/web/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/web/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="springboot-aws-webService" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="LeeGiCheol" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Practice" />
+  </component>
+  <component name="ProjectId" id="1kBndCA24UCgxzwnZi21PyxSy0j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.gicheol.book.springboot.web" />
+      <recent name="com.gicheol.book.springboot.web.dto" />
+      <recent name="com.gicheol.book.springboot.domain.posts" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/layout" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="IndexControllerTest.main_load" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.gicheol.book.springboot.web.IndexControllerTest.main_load&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostsApiControllerTest.posts_update" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.gicheol.book.springboot.web.PostsApiControllerTest.posts_update&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="PostsRepositoryTest.BaseTimeEntity_insert" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.gicheol.book.springboot.domain.posts.PostsRepositoryTest.BaseTimeEntity_insert&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloControllerTest.hello_return" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-aws-webService.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gicheol.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gicheol.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.gicheol.book.springboot.web.HelloControllerTest" />
+      <option name="METHOD_NAME" value="hello_return" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsApiControllerTest.posts_insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-aws-webService.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gicheol.book.springboot.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gicheol.book.springboot.web" />
+      <option name="MAIN_CLASS_NAME" value="com.gicheol.book.springboot.web.PostsApiControllerTest" />
+      <option name="METHOD_NAME" value="posts_insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-aws-webService.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gicheol.book.springboot.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.PostsApiControllerTest.posts_update" />
+      <item itemvalue="Gradle.PostsRepositoryTest.BaseTimeEntity_insert" />
+      <item itemvalue="Gradle.IndexControllerTest.main_load" />
+      <item itemvalue="JUnit.PostsApiControllerTest.posts_insert" />
+      <item itemvalue="JUnit.HelloControllerTest.hello_return" />
+      <item itemvalue="Spring Boot.Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.IndexControllerTest.main_load" />
+        <item itemvalue="Gradle.PostsRepositoryTest.BaseTimeEntity_insert" />
+        <item itemvalue="Gradle.PostsApiControllerTest.posts_update" />
+        <item itemvalue="JUnit.PostsApiControllerTest.posts_insert" />
+        <item itemvalue="JUnit.HelloControllerTest.hello_return" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0652216-a487-41c2-901e-150446bce89d" name="Default Changelist" comment="" />
+      <created>1605182936936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605182936936</updated>
+      <workItem from="1605182945635" duration="1474000" />
+      <workItem from="1605184655962" duration="563000" />
+      <workItem from="1605185242125" duration="8016000" />
+      <workItem from="1605193427775" duration="458000" />
+      <workItem from="1605194026446" duration="226000" />
+      <workItem from="1605194483030" duration="293000" />
+      <workItem from="1605274546605" duration="3172000" />
+      <workItem from="1605452015424" duration="252000" />
+      <workItem from="1605452301805" duration="4683000" />
+      <workItem from="1605523879371" duration="358000" />
+      <workItem from="1605528082884" duration="6590000" />
+      <workItem from="1605535108451" duration="352000" />
+    </task>
+    <task id="LOCAL-00001" summary="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
+      <created>1605185111352</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605185111352</updated>
+    </task>
+    <task id="LOCAL-00002" summary="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
+      <created>1605185298186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605185298186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
+      <created>1605185422006</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605185422006</updated>
+    </task>
+    <task id="LOCAL-00004" summary="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
+      <created>1605185762151</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605185762151</updated>
+    </task>
+    <task id="LOCAL-00005" summary="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
+      <created>1605186085896</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605186085896</updated>
+    </task>
+    <task id="LOCAL-00006" summary="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
+      <created>1605186121205</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605186121205</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작" />
+    <option name="LAST_COMMIT_MESSAGE" value="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="733" y="91" key="#Auto_Import" timestamp="1605452658374">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="733" y="91" key="#Auto_Import/0.0.1920.1080@0.0.1920.1080" timestamp="1605452658374" />
+    <state x="851" y="410" key="#Notifications" timestamp="1605184898784">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="851" y="410" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1605184898784" />
+    <state x="560" y="188" key="#Plugins" timestamp="1605452230082">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="188" key="#Plugins/0.0.1920.1080@0.0.1920.1080" timestamp="1605452230082" />
+    <state x="448" y="121" key="#Project_Structure" timestamp="1605277060928">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="#Project_Structure/0.0.1920.1080@0.0.1920.1080" timestamp="1605277060928" />
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605192679139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="424" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605192679139" />
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1605531532745">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605531532745" />
+    <state x="738" y="414" key="Github.CreatePullRequestDialog" timestamp="1605186148262">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="738" y="414" key="Github.CreatePullRequestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605186148262" />
+    <state x="784" y="444" key="Github.ShareDialog" timestamp="1605185737270">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="784" y="444" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605185737270" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1605535460089">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605535460089" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251447" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1605535460087">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605535460087" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251442" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1605535460086">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605535460086" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251440" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1605535460088">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605535460088" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251444" />
+    <state width="1878" height="305" key="GridCell.Tab.1.bottom" timestamp="1605535460092">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605535460092" />
+    <state width="1878" height="305" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251453" />
+    <state width="1878" height="305" key="GridCell.Tab.1.center" timestamp="1605535460090">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605535460090" />
+    <state width="1878" height="305" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251451" />
+    <state width="1878" height="305" key="GridCell.Tab.1.left" timestamp="1605535460089">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605535460089" />
+    <state width="1878" height="305" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251450" />
+    <state width="1878" height="305" key="GridCell.Tab.1.right" timestamp="1605535460091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="305" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605535460091" />
+    <state width="1878" height="305" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251452" />
+    <state width="1062" height="376" key="GridCell.Tab.2.bottom" timestamp="1605535067363">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1062" height="376" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605535067363" />
+    <state width="1062" height="376" key="GridCell.Tab.2.center" timestamp="1605535067362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1062" height="376" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605535067362" />
+    <state width="1062" height="376" key="GridCell.Tab.2.left" timestamp="1605535067361">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1062" height="376" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605535067361" />
+    <state width="1062" height="376" key="GridCell.Tab.2.right" timestamp="1605535067362">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1062" height="376" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605535067362" />
+    <state x="521" y="351" key="Registry" timestamp="1605193004077">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="521" y="351" key="Registry/0.0.1920.1080@0.0.1920.1080" timestamp="1605193004077" />
+    <state x="469" y="179" key="SettingsEditor" timestamp="1605452264084">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605452264084" />
+    <state x="282" y="290" width="540" height="524" key="StructurePopup" timestamp="1605534179662">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="282" y="290" width="540" height="524" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1605534179662" />
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2" timestamp="1605185778906">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="280" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605185778906" />
+    <state x="676" y="279" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1605186143002">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="676" y="279" key="com.intellij.dvcs.ui.CompareBranchesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605186143002" />
+    <state x="683" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605534734628">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="683" y="439" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1080@0.0.1920.1080" timestamp="1605534734628" />
+    <state x="355" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605533948478">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="355" y="461" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1605533948478" />
+    <state x="715" y="369" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1605452559775">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="715" y="369" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605452559775" />
+    <state x="779" y="372" key="export.test.results" timestamp="1605192714812">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="779" y="372" key="export.test.results/0.0.1920.1080@0.0.1920.1080" timestamp="1605192714812" />
+    <state x="667" y="266" width="586" height="548" key="find.popup" timestamp="1605534531685">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="667" y="266" width="586" height="548" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605534531685" />
+    <state x="704" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605186172712">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="704" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605186172712" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1605534232027">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605534232027" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="java.lang.Long" fieldName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
