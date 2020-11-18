@@ -7,7 +7,12 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/blob/master/Practice/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
-- 2020 11 15 일
+- 2020 11 18 수
+  - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
+    - 소셜로그인 (네이버)
+    - AWS EC2 생성, 초기 설정
+
+- 2020 11 16 월
   - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
     - 소셜로그인 (구글)
     - session.getAttribute("user")와 같이 자주쓰는 문법은 annotation으로 관리
