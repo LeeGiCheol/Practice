@@ -7,6 +7,11 @@ ___
 - [Network 필기노트](https://github.com/LeeGiCheol/Practice/blob/master/Practice/src/network), [강의 link](http://www.kocw.net/home/search/kemView.do?kemId=1169634)   
 ___
 
+- 2020 11 19 목
+  - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
+    - AWS RDS 설정
+    - 프로젝트 배포
+
 - 2020 11 18 수
   - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
     - 소셜로그인 (네이버)

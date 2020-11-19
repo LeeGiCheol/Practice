@@ -11,76 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0652216-a487-41c2-901e-150446bce89d" name="Default Changelist" comment="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/JpaConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.1/javaCompile/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/META-INF/springboot-aws-webService.main.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/gicheol/book/springboot/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/gicheol/book/springboot/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/gicheol/book/springboot/config/auth/WebConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/gicheol/book/springboot/config/auth/dto/OAuthAttributes.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/gicheol/book/springboot/config/auth/dto/OAuthAttributes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/gicheol/book/springboot/web/HelloControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/gicheol/book/springboot/web/HelloControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/com/gicheol/book/springboot/web/PostsApiControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/com/gicheol/book/springboot/web/PostsApiControllerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.web.IndexControllerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.web.IndexControllerTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.gicheol.book.springboot.web.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.gicheol.book.springboot.web.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/index.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/index.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.web.IndexControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.web.IndexControllerTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/resources/templates/index.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/resources/templates/index.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/auth/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/WebConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/auth/dto/OAuthAttributes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/gicheol/book/springboot/config/auth/dto/OAuthAttributes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.mustache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gicheol/book/springboot/web/HelloControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gicheol/book/springboot/web/HelloControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/gicheol/book/springboot/web/PostsApiControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/gicheol/book/springboot/web/PostsApiControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +76,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
@@ -182,7 +114,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -296,11 +228,11 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.IndexControllerTest.main_load" />
-      <item itemvalue="Spring Boot.Application" />
       <item itemvalue="Gradle.springboot_aws_webService [test]" />
       <item itemvalue="Gradle.HelloResponseDtoTest.lombokTest" />
       <item itemvalue="JUnit.HelloResponseDtoTest.lombokTest" />
       <item itemvalue="JUnit.HelloControllerTest" />
+      <item itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list>
@@ -335,6 +267,12 @@
       <workItem from="1605528082884" duration="6590000" />
       <workItem from="1605535108451" duration="725000" />
       <workItem from="1605700825415" duration="4505000" />
+      <workItem from="1605782889121" duration="404000" />
+      <workItem from="1605784763791" duration="88000" />
+      <workItem from="1605784871633" duration="498000" />
+      <workItem from="1605785446520" duration="756000" />
+      <workItem from="1605786728930" duration="467000" />
+      <workItem from="1605788931794" duration="2028000" />
     </task>
     <task id="LOCAL-00001" summary="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
       <created>1605185111352</created>
@@ -425,6 +363,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="773" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1605531532745" />
+    <state x="698" y="470" key="DBNavigator.CreateRenameConsoleDialog" timestamp="1605788986533">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="470" key="DBNavigator.CreateRenameConsoleDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605788986533" />
+    <state x="688" y="447" width="544" height="231" key="DBNavigator.IdleConnectionDialog" timestamp="1605791190138">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="688" y="447" width="544" height="231" key="DBNavigator.IdleConnectionDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605791190138" />
+    <state x="498" y="202" key="DBNavigator.ProjectSettingsDialog" timestamp="1605788971989">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="498" y="202" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605788971989" />
+    <state x="719" y="437" key="DBNavigator.ResultSetRecordViewerDialog" timestamp="1605785227670">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="719" y="437" key="DBNavigator.ResultSetRecordViewerDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605785227670" />
     <state x="738" y="414" key="Github.CreatePullRequestDialog" timestamp="1605186148262">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -433,46 +387,46 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="784" y="444" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605185737270" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1605704579346">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom" timestamp="1605709328774">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605704579346" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251447" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1605704579345">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328774" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center" timestamp="1605709328773">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605704579345" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251442" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1605704579344">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="305" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328773" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left" timestamp="1605709328773">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605704579344" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251440" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1605704579345">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="305" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328773" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right" timestamp="1605709328774">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605704579345" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251444" />
-    <state width="1878" height="305" key="GridCell.Tab.1.bottom" timestamp="1605702025823">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328774" />
+    <state width="1878" height="305" key="GridCell.Tab.1.bottom" timestamp="1605709328764">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605702025823" />
-    <state width="1878" height="305" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251453" />
-    <state width="1878" height="305" key="GridCell.Tab.1.center" timestamp="1605702025822">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="305" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328764" />
+    <state width="1878" height="305" key="GridCell.Tab.1.center" timestamp="1605709328763">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="305" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605702025822" />
-    <state width="1878" height="305" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251451" />
-    <state width="1878" height="305" key="GridCell.Tab.1.left" timestamp="1605702025821">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="305" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328763" />
+    <state width="1878" height="305" key="GridCell.Tab.1.left" timestamp="1605709328762">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="305" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605702025821" />
-    <state width="1878" height="305" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251450" />
-    <state width="1878" height="305" key="GridCell.Tab.1.right" timestamp="1605702025822">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1878" height="305" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328762" />
+    <state width="1878" height="305" key="GridCell.Tab.1.right" timestamp="1605709328763">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="305" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605702025822" />
-    <state width="1878" height="305" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1605535251452" />
+    <state width="1878" height="305" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328763" />
     <state width="1062" height="376" key="GridCell.Tab.2.bottom" timestamp="1605535067363">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -493,10 +447,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="521" y="351" key="Registry/0.0.1920.1080@0.0.1920.1080" timestamp="1605193004077" />
-    <state x="469" y="179" key="SettingsEditor" timestamp="1605703444898">
+    <state x="469" y="179" key="SettingsEditor" timestamp="1605784822060">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605703444898" />
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605784822060" />
     <state x="282" y="290" width="540" height="524" key="StructurePopup" timestamp="1605534179662">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -533,10 +487,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="704" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605186172712" />
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1605534232027">
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1605795183564">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605534232027" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605795183564" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
