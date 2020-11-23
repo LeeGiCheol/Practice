@@ -26,7 +26,6 @@
     <loaded-nodes>
       <connection connection-id="15895cab-e3c8-487b-9d82-99246555bedb">
         <schema name="mysql" object-types="table, view" />
-        <schema name="springboot2_webservice_rds" object-types="procedure, function, table, view" />
       </connection>
     </loaded-nodes>
   </component>
@@ -82,7 +81,9 @@ CREATE TABLE SPRING_SESSION_ATTRIBUTES (
 	ATTRIBUTE_BYTES BLOB NOT NULL,
 	CONSTRAINT SPRING_SESSION_ATTRIBUTES_PK PRIMARY KEY (SESSION_PRIMARY_ID, ATTRIBUTE_NAME),
 	CONSTRAINT SPRING_SESSION_ATTRIBUTES_FK FOREIGN KEY (SESSION_PRIMARY_ID) REFERENCES SPRING_SESSION(PRIMARY_ID) ON DELETE CASCADE
-) ENGINE=InnoDB ROW_FORMAT=DYNAMIC;]]></console>
+) ENGINE=InnoDB ROW_FORMAT=DYNAMIC;
+
+select * from user;]]></console>
     </connection>
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
@@ -128,12 +129,12 @@ CREATE TABLE SPRING_SESSION_ATTRIBUTES (
           <driver-library value="" />
           <driver value="" />
           <url-type value="DATABASE" />
-          <host value="springboot2-webservice-rds.clah9luz4lhd.us-east-2.rds.amazonaws.com " />
+          <host value="springboot2-webservice-rds.clah9luz4lhd.us-east-2.rds.amazonaws.com" />
           <port value="3306" />
           <database value="mysql" />
           <type value="USER_PASSWORD" />
           <user value="ekkkk1" />
-          <deprecated-pwd value="bGVlZ2MxMzA=" />
+          <deprecated-pwd value="cGFzc3dvcmQ=" />
         </database>
         <properties>
           <auto-commit value="false" />

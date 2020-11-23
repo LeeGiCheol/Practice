@@ -10,6 +10,9 @@ ___
 - 2020 11 23 월
   - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
     - 스프링 부트 RDS 접근하기
+    - Travis CI 연동
+    - Travis CI , AWS S3 연동
+    - Travis CI , AWS S3 , CodeDeploy 연동
 
 - 2020 11 19 목
   - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스
