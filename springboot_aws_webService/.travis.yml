@@ -31,13 +31,13 @@ deploy:
     wait-until-deployed: true
 
   - provider: codedeploy
-    access_key_id: $AWS_ACCESS_KEY #Travis repo settings에 설정된 값
-    secret_access_key: $AWS_SECRET_KEY #Travis repo settings에 설정된 값
-    bucket: ekkkk1-springboot-build
-    key: springboot-aws-webService.zip
+    access_key_id: $AWS_ACCESS_KEY
+    secret_access_key: $AWS_SECRET_KEY
+    bucket: ekkkk1-springboot-build # S3 버킷 이름
+    key: springboot-aws-webService.zip # 파일명
     bundle_type: zip
-    application: springboot2-webservice
-    deployment_group: ekkkk1-springboot-webservice-group
+    application: springboot2-webservice # CodeDeploy 어플리케이션
+    deployment_group: ekkkk1-springboot-webservice-group # CodeDeploy 배포 그룹
     region: ap-northeast-2
     wait-until-deployed: true
 

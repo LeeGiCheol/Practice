@@ -10,7 +10,33 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0652216-a487-41c2-901e-150446bce89d" name="Default Changelist" comment="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작" />
+    <list default="true" id="f0652216-a487-41c2-901e-150446bce89d" name="Default Changelist" comment="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.domain.posts.PostsRepositoryTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.domain.posts.PostsRepositoryTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.web.HelloControllerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.web.HelloControllerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.web.IndexControllerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.web.IndexControllerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.web.PostsApiControllerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.web.PostsApiControllerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.web.dto.HelloResponseDtoTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.gicheol.book.springboot.web.dto.HelloResponseDtoTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.gicheol.book.springboot.domain.posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.gicheol.book.springboot.domain.posts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.gicheol.book.springboot.web.dto.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.gicheol.book.springboot.web.dto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.gicheol.book.springboot.web.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.gicheol.book.springboot.web.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.domain.posts.PostsRepositoryTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.domain.posts.PostsRepositoryTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.web.HelloControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.web.HelloControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.web.IndexControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.web.IndexControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.web.PostsApiControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.web.PostsApiControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.web.dto.HelloResponseDtoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.gicheol.book.springboot.web.dto.HelloResponseDtoTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -272,7 +298,11 @@
       <workItem from="1605788931794" duration="2028000" />
       <workItem from="1605970190200" duration="75000" />
       <workItem from="1605970314364" duration="95000" />
-      <workItem from="1606127041651" duration="6151000" />
+      <workItem from="1606127041651" duration="7148000" />
+      <workItem from="1606213465585" duration="5629000" />
+      <workItem from="1606474042083" duration="4155000" />
+      <workItem from="1606493939678" duration="1649000" />
+      <workItem from="1606819969276" duration="817000" />
     </task>
     <task id="LOCAL-00001" summary="스프링부트와 AWS로 혼자 구현하는 웹 서비스 시작">
       <created>1605185111352</created>
@@ -387,45 +417,45 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="784" y="444" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605185737270" />
-    <state width="939" height="304" key="GridCell.Tab.0.bottom" timestamp="1606130016428">
+    <state width="939" height="376" key="GridCell.Tab.0.bottom" timestamp="1606486817489">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="939" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606130016428" />
-    <state width="1878" height="305" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328774" />
-    <state width="939" height="304" key="GridCell.Tab.0.center" timestamp="1606130016427">
+    <state width="939" height="376" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606486817489" />
+    <state width="939" height="304" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1606145116172" />
+    <state width="939" height="376" key="GridCell.Tab.0.center" timestamp="1606486817486">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="939" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606130016427" />
-    <state width="1878" height="305" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328773" />
-    <state width="939" height="304" key="GridCell.Tab.0.left" timestamp="1606130016427">
+    <state width="939" height="376" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606486817486" />
+    <state width="939" height="304" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1606145116171" />
+    <state width="939" height="376" key="GridCell.Tab.0.left" timestamp="1606486817485">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="939" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606130016427" />
-    <state width="1878" height="305" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328773" />
-    <state width="939" height="304" key="GridCell.Tab.0.right" timestamp="1606130016428">
+    <state width="939" height="376" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606486817485" />
+    <state width="939" height="304" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1606145116170" />
+    <state width="939" height="376" key="GridCell.Tab.0.right" timestamp="1606486817488">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="939" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606130016428" />
-    <state width="1878" height="305" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328774" />
-    <state width="1878" height="305" key="GridCell.Tab.1.bottom" timestamp="1605709328764">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="939" height="376" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606486817488" />
+    <state width="939" height="304" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1606145116172" />
+    <state width="939" height="376" key="GridCell.Tab.1.bottom" timestamp="1606486817491">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1605702025823" />
+    <state width="939" height="376" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606486817491" />
     <state width="1878" height="305" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328764" />
-    <state width="1878" height="305" key="GridCell.Tab.1.center" timestamp="1605709328763">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="939" height="376" key="GridCell.Tab.1.center" timestamp="1606486817490">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1605702025822" />
+    <state width="939" height="376" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606486817490" />
     <state width="1878" height="305" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328763" />
-    <state width="1878" height="305" key="GridCell.Tab.1.left" timestamp="1605709328762">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="939" height="376" key="GridCell.Tab.1.left" timestamp="1606486817489">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1605702025821" />
+    <state width="939" height="376" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606486817489" />
     <state width="1878" height="305" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328762" />
-    <state width="1878" height="305" key="GridCell.Tab.1.right" timestamp="1605709328763">
-      <screen x="0" y="23" width="1920" height="1057" />
+    <state width="939" height="376" key="GridCell.Tab.1.right" timestamp="1606486817491">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1878" height="305" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1605702025822" />
+    <state width="939" height="376" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606486817491" />
     <state width="1878" height="305" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1605709328763" />
     <state width="1062" height="376" key="GridCell.Tab.2.bottom" timestamp="1605535067363">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -488,6 +518,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="704" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605186172712" />
+    <state x="383" y="152" key="new project wizard" timestamp="1606821670416">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="383" y="152" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1606821670416" />
     <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1606129661091">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
